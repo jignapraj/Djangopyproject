@@ -37,9 +37,9 @@ _This app allows users to add and filter books in the database easily. It allows
 
 •	Run the commands written below to create a database, establish a connection and run the server (The commands provided are for Windows):
 
-  o	py manage.py migrate
+1. py manage.py migrate
 
-o	py manage.py runserver 8080
+2. py manage.py runserver 8080
 
 •	Click on the link provided in the terminal to see the application in action.
 # Challenges Faced:
